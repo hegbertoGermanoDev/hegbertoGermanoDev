@@ -1,8 +1,7 @@
 ### Olá! Sou o Hegberto Germano! 👋
 
 - 🔭 Hoje trabalho com Java Spring Boot, React, Pl-Sql, Apex SalesForce, Fullstack, Apis Rest...
-- 🌱 Estou estudando atualmente SpringBoot, Angular, Typescript, Javascript...
-- 😄 Pronomes: ele/dele
+- 🌱 Estou estudando atualmente SpringBoot, React JS, Typescript, Javascript...
 
 <div>
   <a href="https://github.com/hegbertoGermanoDev">
